@@ -1,0 +1,12 @@
+Mobile status-bar icons
+
+signal.svg: Bootstrap Icons v1.13.1, reception-4.
+https://github.com/twbs/icons/blob/v1.13.1/icons/reception-4.svg
+License: MIT; see LICENSE. Unmodified source.
+
+wifi-fill.svg and battery-fill.svg: Remix Icon v4.6.0.
+https://github.com/Remix-Design/RemixIcon/blob/v4.6.0/icons/Device/wifi-fill.svg
+https://github.com/Remix-Design/RemixIcon/blob/v4.6.0/icons/Device/battery-fill.svg
+License: see REMIX-LICENSE.
+The battery SVG adds preserveAspectRatio="none" to fit the 24 x 16 status-bar slot.
+The original icon paths are unchanged.
